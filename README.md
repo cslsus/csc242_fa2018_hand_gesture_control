@@ -1,2 +1,2 @@
-# csc242_fa2018_hand_gesture_control-
+# csc242_fa2018_hand_gesture_control
 csc242_fa2018_hand_gesture_control
